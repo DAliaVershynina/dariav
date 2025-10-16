@@ -10,4 +10,4 @@ Machine learning pipeline predicting presence and type of syncope based on medic
 - Technologies: `Python`, `scikit-learn`, `pandas`, `matplotlib`.
 - Includes feature importance and explainability analysis for doctors.
 - Accuracy: 0.80+
-  [View project](https://github.com/kkuichi/dv349qo)
+- [View project](https://github.com/kkuichi/dv349qo)
