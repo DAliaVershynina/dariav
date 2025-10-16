@@ -28,4 +28,4 @@ The database includes entities such as **patients, doctors, staff, departments, 
 
 #### 📄 Project File
 The full project report is included here:  
-- [ADS_final_pdf.pdf](ADS_final_pdf.pdf)
+- [SQL project](ADS_final_pdf.pdf)
